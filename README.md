@@ -89,5 +89,8 @@ if __name__ == "__main__":
 
 
 ### Output:
+![img](https://github.com/Girithickrohan/WDM_EXP5/blob/main/Screenshot%202026-08-30%20225232.png)
 
+![img](https://github.com/Girithickrohan/WDM_EXP5/blob/main/Screenshot%202026-08-30%20225232.png)
 ### Result:
+Thus, program excuted succesfully.
